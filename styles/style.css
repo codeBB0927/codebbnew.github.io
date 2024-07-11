@@ -1,0 +1,44 @@
+html {
+  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  background-color: #5465E2;
+}
+
+body{
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #F4F260;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;	
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
+
+
+h2{
+	font-size: 48px;
+}
+
+li {
+  font-size: 36px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+p{
+	font-size: 24px;
+	line height: 4;
+        font-family: "Playwrite MX", cursive;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
